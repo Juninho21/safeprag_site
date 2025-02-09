@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/safeprag_new/',
+  base: '/safeprag_site/',
   server: {
     port: 3000,
     host: true
