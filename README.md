@@ -1,4 +1,4 @@
-# Safeprag
+# Safeprag - Sistema de Gerenciamento
 
 Sistema de gerenciamento para empresas de prestação de serviços.
 
